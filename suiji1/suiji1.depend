@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1499399163 source:d:\projects\c\suiji\suiji1\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+
